@@ -1,5 +1,5 @@
->Hi, I'm Jakub
-<h3 align="center">Junior Developer: React js, Node js, .Net</h3>
+<h1>Hi, I'm Jakub</h1>
+<h3>Junior Developer: React js, Node js, .Net</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mietek442&label=Profile%20views&color=0e75b6&style=flat" alt="mietek442" /> </p>
 
