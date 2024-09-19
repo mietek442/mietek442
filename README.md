@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mietek442&label=Profile%20views&color=0e75b6&style=flat" alt="mietek442" /> </p>
 
-- 🛒 Experimental E-commerce Platform Built with React JS🛒 [nurkowaniewszambie.pl](https://github.com/mietek442/nurkowaniewszambie)
+- 🛒 Experimental E-commerce Platform Built with React JS🛒 [ShopReact](https://github.com/mietek442/nurkowaniewszambie)
 
-- 🛒 Experimental E-commerce Platform Built with Node js🛒 [nurkowaniewszambie.pl](https://github.com/mietek442/NodeshopPublic)
+- 🛒 Experimental E-commerce Platform Built with Node js🛒 [NodeshopPubilic](https://github.com/mietek442/NodeshopPublic)
 
-- 🛒 Experimental E-commerce Platform Built on Server🛒 [nurkowaniewszambie.pl](https://nurkowaniewszambie.pl/)
+
 
 - 📊Cryptocurrency Market Overview📊 [ChartCrypt](https://github.com/mietek442/ChartCrypt/)
 
