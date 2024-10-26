@@ -6,7 +6,7 @@
 - 🛒 Experimental E-commerce Platform Built with React JS🛒 [ShopReact](https://github.com/mietek442/nurkowaniewszambie)
 
 - 🛒 Experimental E-commerce Platform Built with Node js🛒 [NodeshopPubilic](https://github.com/mietek442/NodeshopPublic)
-- 
+  
 - 🛒 Experimental E-commerce Platform Built on Server🛒  [Divingshop]([https://github.com/mietek442/NodeshopPublic](https://divingshop.jakubchrzastek.pl)
 
 
