@@ -7,7 +7,7 @@
 
 - 🛒 Experimental E-commerce Platform Built with Node js🛒 [NodeshopPubilic](https://github.com/mietek442/NodeshopPublic)
   
-- 🛒 Experimental E-commerce Platform Built on Server🛒  [Divingshop]([https://github.com/mietek442/NodeshopPublic](https://divingshop.jakubchrzastek.pl)
+- 🛒 Experimental E-commerce Platform Built on Server🛒  [Divingshop](https://divingshop.jakubchrzastek.pl/)
 
 
 - 📊Cryptocurrency Market Overview📊 [ChartCrypt](https://github.com/mietek442/ChartCrypt/)
